@@ -59,7 +59,7 @@ clever create --type docker glitchtip-web --org <ORGANISATION>
 clever create --type docker glitchtip-worker --org <ORGANISATION>
 
 # 2. Create and link the PG addon
-clever addon create postgresql-addon --plan s_sml --addon-version 15 glitchtip-postgres --org <ORGANISATION>
+clever addon create postgresql-addon --plan xxs_sml --addon-version 15 glitchtip-postgres --org <ORGANISATION>
 clever service link-addon glitchtip-postgres -a glitchtip-web
 clever service link-addon glitchtip-postgres -a glitchtip-worker
 
