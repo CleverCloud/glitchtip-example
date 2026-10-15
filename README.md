@@ -1,5 +1,3 @@
-![Clever Cloud logo](./github-assets/clever-cloud-logo.png)
-
 # Deploy GlitchTip on Clever Cloud
 
 [![GlitchTip – Sentry-compatible Error Tracking](https://img.shields.io/badge/GlitchTip-Sentry%20compatible%20error%20tracking-blue)](https://glitchtip.com)
